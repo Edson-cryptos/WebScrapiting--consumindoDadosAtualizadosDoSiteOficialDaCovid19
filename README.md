@@ -1,0 +1,1 @@
+# WebScrapiting--consumindoDadosAtualizadosDoSiteOficialDaCovid19
